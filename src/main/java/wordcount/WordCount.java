@@ -1,4 +1,4 @@
-package org.itversity.mr.wordcount;
+package wordcount;
 
 import java.io.IOException;
 
